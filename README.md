@@ -17,15 +17,18 @@
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/webpack-282C34?logo=webpack&logoColor=61DAFB" alt="Vwebpack logo" title="webpack" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/webpack-282C34?logo=webpack&logoColor=61DAFB" alt="Vwebpack logo" title="webpack" height="25" />
+&nbsp;
 
 <h3>В планах:<h3>
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Vue-282C34?logo=Vue.js&logoColor=47A248" alt="Sass logo" title="Sass" height="25" />
+<img src="https://img.shields.io/badge/Vue-282C34?logo=Vue.js&logoColor=47A248" alt="Vue logo" title="Vue" height="25" />
 &nbsp;
 
 <h3>Моя статистика:<h3>
 <p align="center">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kanapinm&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter&exclude_repo=Pacman-AI">
 </p>
-
