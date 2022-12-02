@@ -17,15 +17,15 @@
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/webpack-282C34?logo=webpack&logoColor=61DAFB" alt="Vwebpack logo" title="webpack" height="25" />
+<img src="https://img.shields.io/badge/webpack-282C34?logo=webpack&logoColor=61DAFB" alt="webpack logo" title="webpack" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/webpack-282C34?logo=webpack&logoColor=61DAFB" alt="Vwebpack logo" title="webpack" height="25" />
+<img src="https://img.shields.io/badge/babel-282C34?logo=babel&logoColor=F7DF1E" alt="babel logo" title="babel" height="25" />
 &nbsp;
 
 <h3>В планах:<h3>
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Vue-282C34?logo=Vue.js&logoColor=47A248" alt="Vue logo" title="Vue" height="25" />
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=47A248" alt="Vue logo" title="Vue" height="25" />
 &nbsp;
 
 <h3>Моя статистика:<h3>
