@@ -35,4 +35,9 @@
 </p>
 
 <h3>Мои контакты:<h3>
-Telegram: @KanapinM
+<p align="center">
+    <img src="https://img.shields.io/badge/@KanapinM-ffffff?logo=Telegram&logoColor=229ED9" alt="telegram" title="telegram @KanapinM" height="25" />(https://t.me/KanapinM 'Связаться в Telegram')
+&nbsp;
+    <img src="https://img.shields.io/badge/kanapinmarat@yandex.ru-ffffff?logo=usps&logoColor=ff0000" alt="mail kanapinmarat@yandex.ru" title="mail" height="25" />(mailto:kanapinmarat@yandex.ru 'Связаться по почте')
+&nbsp;
+</p>
